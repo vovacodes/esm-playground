@@ -3,6 +3,7 @@
     "react": "https://deno.land/x/global_libs@1.1.0/react.js",
     "react-dom": "https://deno.land/x/global_libs@1.1.0/react-dom.js",
     "buffer": "https://ga.jspm.io/npm:@jspm/core@2.0.0-beta.7/nodelibs/buffer.js",
+    "canvas-confetti": "https://ga.jspm.io/npm:canvas-confetti@1.3.0/src/confetti.js",
     "htm": "https://ga.jspm.io/npm:htm@3.0.4/dist/htm.js",
     "process": "https://ga.jspm.io/npm:@jspm/core@2.0.0-beta.7/nodelibs/process.js",
     "react-three-fiber": "https://ga.jspm.io/npm:react-three-fiber@5.0.3/dev.web.cjs.js",
